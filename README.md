@@ -44,7 +44,7 @@ Else → perform Action B
 
 | Certification | Credential Link | Alignment with Project |
 |----------------|-----------------|------------------------|
-| **CompTIA Cloud+ (CV0-004)** | [![Cloud+](<"https://github.com/user-attachments/assets/f0845751-270a-4aff-ae5e-ddb0ea8dd060" />
+| **CompTIA Cloud+ (CV0-004)** | [![Cloud+](https://github.com/user-attachments/assets/f0845751-270a-4aff-ae5e-ddb0ea8dd060)
 ) | Demonstrated cloud automation, orchestration, and workflow design using n8n. |
 | **CompTIA Security+ (SY0-701)** | [![Security+](https://images.credly.com/size/80x80/images/74790a75-8451-400a-8536-92d792f6fa6c/image.png)](https://www.credly.com/badges/74790a75-8451-400a-8536-92d792f6fa6c/public_url) | Applied secure design practices to manage credentials, API connections, and data integrity. |
 | **AWS Certified Cloud Practitioner** | [![AWS CCP](https://images.credly.com/size/80x80/images/2e35b1a3-f0a0-4d85-9b17-8d98f9b5e1c8/image.png)](https://www.credly.com/badges/2e35b1a3-f0a0-4d85-9b17-8d98f9b5e1c8/public_url) | Leveraged AWS event-driven design and automation principles. |
