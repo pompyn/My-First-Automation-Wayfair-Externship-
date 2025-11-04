@@ -35,3 +35,11 @@ Else → perform Action B
 
 ### 🧠 4. Edit Fields (True/False Branches)
 
+## 📸 Screenshots
+| Workflow Overview | Conditional Output |
+|--------------------|-------------------|
+| ![Workflow Diagram](images/01_First_Automation_Workflow.png) | ![Output Node](images/02_Conditional_Output_Node.png) |
+
+| True Branch Output | False Branch Output |
+|--------------------|--------------------|
+| ![True Branch](images/03_True_Branch_Output.png) | ![False Branch](images/04_False_Branch_Output.png) |
