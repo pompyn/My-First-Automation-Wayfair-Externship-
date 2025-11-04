@@ -43,3 +43,4 @@ Else → perform Action B
 | True Branch Output | False Branch Output |
 |--------------------|--------------------|
 | ![True Branch](images/03_True_Branch_Output.png) | ![False Branch](images/04_False_Branch_Output.png) |
+
