@@ -17,21 +17,23 @@ Initiates the workflow automatically at defined intervals — simulating real-wo
 Daily health checks
 Data refresh routines
 Alert system triggers
+
+![Workflow Diagram](images/01_First_Automation_Workflow.png)
+
 🧩 2. Code in JavaScript
 Executes a custom script to define and manipulate data before evaluation.
 This introduces programmable control inside a visual workflow environment.
 
+![Conditional Node](images/02_Conditional_Output_Node.png)
 🔀 3. If Node
 Applies conditional logic to determine which execution path to follow:
 
 If condition == true → perform Action A  
 Else → perform Action B
 
+![True Branch](images/03_True_Branch_Output.png)
 ### 🧠 4. Edit Fields (True/False Branches)
 
-## 📸 Screenshots
-![Workflow Diagram](images/01_First_Automation_Workflow.png)
-![Conditional Node](images/02_Conditional_Output_Node.png)
-![True Branch](images/03_True_Branch_Output.png)
 ![False Branch](images/04_False_Branch_Output.png)
+
 
